@@ -54,7 +54,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				{word: 'Appealing'},
 				{word: 'Cheer'},
 				{word: 'Delightful'},
-				{word: 'Fabulus'},
+				{word: 'Fabulous'},
 				{word: 'Glad'},
 				{word: 'Joyous'},
 				{word: 'Magnificent'},
